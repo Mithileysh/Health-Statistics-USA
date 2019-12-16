@@ -1,2 +1,1 @@
-# BrahmaniBharatam.github.io
-The Link to the Dashboad : https://brahmanibharatam.github.io/
+Demo Link: https://mithileysh.github.io/Health-Statistics-USA/.
